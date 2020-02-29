@@ -4,6 +4,9 @@
 
 https://www.zybuluo.com/zbyglls/note/1265988
 
+## Python爬虫
+
+https://www.zybuluo.com/zbyglls/note/1671208
 
 ## Python练习题
 

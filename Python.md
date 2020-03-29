@@ -5215,4 +5215,3 @@ f.quit()
 - 参考资料
     - [官网](https://docs.python.org/3/library/email.mime.html)
     
-www.hotjob.cn/wt/intco/web/index
